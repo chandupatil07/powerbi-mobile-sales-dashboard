@@ -1,37 +1,59 @@
 # 📊 Mobile Sales Analysis Dashboard (Power BI)
 
-## 📌 Project Overview
-This project is an interactive Power BI dashboard created to analyze mobile phone sales data across different cities, brands, models, payment methods, and time periods.
+## 📌 What I Made
+I created an interactive **Power BI dashboard** to analyze mobile phone sales data.  
+The dashboard helps understand sales performance across **cities, brands, mobile models, time (day & month), payment methods, and customer ratings**.
 
-## 🎯 Objectives
-- Analyze total sales and quantity sold
-- Identify top-performing brands and mobile models
-- Understand customer behavior using ratings and payment methods
-- Discover sales trends by day and month
+This project focuses on converting raw sales data into **clear visuals and business insights**.
 
-## 📈 Key Features
-- KPIs: Total Sales, Total Quantity, Transactions, Average Sales
-- Interactive slicers (Month-wise analysis)
-- Sales trends by day and day name
-- City-wise sales analysis using map visualization
-- Brand and model comparison
-- Key Insights section for business summary
+---
 
-## 🛠 Tools & Technologies
-- Power BI Desktop
-- Data Visualization
-- Basic Data Modeling
+## 🎯 Project Objectives
+- Analyze total sales and total quantity sold
+- Track number of transactions and average sales
+- Identify top-performing mobile brands and models
+- Understand customer preferences using payment methods and ratings
+- Study sales trends by day and month
+- Analyze city-wise sales distribution
 
-## 🖼 Dashboard Preview
-![Dashboard Screenshot](dashboard.png)
+---
+
+## 📈 Dashboard Features
+- **KPI Cards**: Total Sales, Total Quantity, Transactions, Average Sales  
+- **Interactive Slicer** for month-wise filtering  
+- **Line Charts** for daily sales trends  
+- **Bar Charts** for brand, model, and customer rating analysis  
+- **Map Visualization** for city-wise sales performance  
+- **Payment Method Analysis** to understand customer behavior  
+- **Key Insights Section** summarizing important findings  
+
+A **dashboard screenshot** is uploaded in this repository for reference.
+
+---
+
+## 🛠 Tools & Technologies Used
+- Power BI Desktop  
+- Data Visualization  
+- Basic Data Modeling  
+
+---
 
 ## 📌 Key Insights
-- Sales are highest on weekends, especially Saturday
-- Credit cards are the most preferred payment method
-- Vivo and Apple are top-performing brands
-- Metro cities generate higher sales
-- Majority of customers give 4–5 star ratings
+- Sales are highest on weekends, especially Saturday  
+- Credit Card is the most preferred payment method  
+- Vivo and Apple are top-performing brands  
+- Cities like Mumbai, Delhi, and Bangalore generate higher sales  
+- Majority of customers give 4–5 star ratings  
+
+---
+
+## 📁 Repository Contents
+- Power BI dashboard file (.pbix)  
+- Dashboard screenshot image  
+- README file  
+
+---
 
 ## 👤 Author
-Chandrasekhar Patil  
-CSE Student
+**Chandrasekhar Patil**  
+Computer Science Engineering Student
